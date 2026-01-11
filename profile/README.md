@@ -1,45 +1,31 @@
-<h1 align="center">Hi 👋, I'm Duskfallcrew</h1>
-<h3 align="center">An absolute meme. Neurodivergent designer & vibe coder.</h3>
+# 💫 About Me:
+🔭 I'm currently working on Ktiseos Nyx Trainer<br><br>🌱 I'm currently learning NextJS<br><br>👯 I'm looking to collaborate on Web Design, UI/UX<br><br>🤝 I'm looking for help with Python and ML Stacks<br><br>💬 Ask me about My Vision for an Accessible AI Ecosystem that ISNT USING GRADIO!<br><br>📫 How to reach me dskypie@proton.me<br><br>⚡ Fun fact **I have dissociative identity disorder, ADHD, Autism and CPTSD. I'm also an elder millennial who can recite random movie quotes. **
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duskfallcrew&label=Profile%20views&color=0e75b6&style=flat" alt="duskfallcrew" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duskfallcrew" alt="duskfallcrew" /></a> </p>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/duskfallcrew) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/HhBSvM9gBY) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/duskfallcrew) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@duskfallcrew) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/duskfallcrew) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KtiseosNyx_Ai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@duskfallmusic) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:duskypie@proton.me) 
 
-<p align="left"> <a href="https://twitter.com/ktiseosnyx_ai" target="blank"><img src="https://img.shields.io/twitter/follow/ktiseosnyx_ai?logo=twitter&style=for-the-badge" alt="ktiseosnyx_ai" /></a> </p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=duskfallcrew&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=duskfallcrew&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=duskfallcrew&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on [Dataset Tools](https://github.com/Ktiseos-Nyx/Dataset-Tools/tree/main)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=duskfallcrew&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
 
-- 🌱 I’m currently learning **Python, Generative AI**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-- 👯 I’m looking to collaborate on [Jupyter Lora Trainer](https://github.com/Ktiseos-Nyx/Lora_Easy_Training_Jupyter)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=duskfallcrew&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🤝 I’m looking for help with [Dataset Tools](https://github.com/Ktiseos-Nyx/Dataset-Tools/tree/main)
+---
+[![](https://visitcount.itsvg.in/api?id=duskfallcrew&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 👨‍💻 A TON of my Gen AI models are at: [https://civitai.com/user/ktiseos_nyx/models](https://civitai.com/user/ktiseos_nyx/models)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/duskfallxcrew) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/starlordx1983@gmail.com) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/duskfallcrew) 
 
-- 📝 I regularly scream into the void at [https://discord.gg/HhBSvM9gBY](https://discord.gg/HhBSvM9gBY)
-
-- 💬 Ask me about **Things that aren't programming**
-
-- 📫 How to reach me **kieranxsomer@gmail.com**
-
-- 📄 Hang out & Not talk about AI [https://discord.gg/5t2kYxt7An](https://discord.gg/5t2kYxt7An)
-
-- ⚡ Fun fact **I have Dissociative Identity Disorder, Autism & ADHD. Also i'm flat footed.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ktiseosnyx_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ktiseosnyx_ai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/duskfallmusic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="duskfallmusic" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/HhBSvM9gBY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HhBSvM9gBY" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/duskfallxcrew"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="duskfallxcrew" /></a><a href="https://ko-fi.com/duskfallcrew"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="duskfallcrew" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duskfallcrew&show_icons=true&locale=en" alt="duskfallcrew" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duskfallcrew&" alt="duskfallcrew" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
